@@ -1,1 +1,1 @@
-Repositorio del proyecto ContenidoAudiovisual: sistema de gestión de Películas, Series y Documentales con persistencia en archivos CSV, aplicación del patrón MVC, principios SOLID y pruebas unitarias con JUnit. Incluye código fuente refactorizado, diagrama UML e informe técnico
+Repositorio del proyecto ContenidoAudiovisual: sistema de gestión de Películas, Series y Documentales con persistencia en archivos CSV, aplicación del patrón MVC, principios SOLID y pruebas unitarias con JUnit. Incluye código fuente refactorizado, diagrama UML.
